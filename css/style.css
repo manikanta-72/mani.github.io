@@ -202,6 +202,7 @@ figure figcaption {
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
+    font-weight: 600;
 }
 
 #colorlib-aside #colorlib-main-menu ul li a:after {
