@@ -285,7 +285,7 @@
         fullHeight();
         counter();
         counterWayPoint();
-        contentWayPoint();
+        //contentWayPoint();
         burgerMenu();
 
         clickMenu();
