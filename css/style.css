@@ -110,7 +110,7 @@ figure figcaption {
     color: #F5F5F6;
     position: fixed;
     overflow: auto !important;
-    background: rgba(19, 20, 22, 0.61);
+    background: rgb(255, 255, 255);
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
     transition: 0.5s;
