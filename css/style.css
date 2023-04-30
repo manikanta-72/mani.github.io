@@ -149,6 +149,7 @@ figure figcaption {
 #colorlib-aside #colorlib-logo {
     text-align: right;
     font-weight: 700;
+    font-family: 'Alex Brush', cursive;
     font-size: 22px;
     margin-bottom: .5em;
     display: block;
