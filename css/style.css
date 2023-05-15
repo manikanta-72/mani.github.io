@@ -19,7 +19,7 @@ body {
     background: #ffffff;
     /* background: #000000 url("../images/background/dark-kashi.gif"); */
     line-height: 1.8;
-    color: rgba(255, 255, 255, 0.805);
+    color: rgb(0, 0, 0);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
